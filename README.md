@@ -67,11 +67,47 @@ The New Game button calls the init function to restart the game. All scores, sty
 ### 🛠️ Technologies used
 • HTML – the structure of a web page
 
-• CSS – providing simple design and visual effects
+• CSS – providing design and visual effects
 
-• JavaScript – game logic and interactivity
+• JavaScript – game logic and functionality
 
 # How to test the Project
+
+The link created by the github, to test the project live version.
+
+https://zukakharati.github.io/Project-3-Pick-Game/
+
+### 📷 Screenshots
+
+Main Page
+
+![image](https://github.com/user-attachments/assets/8460c879-cef0-4f16-bbfa-b42c2aba0d30)
+
+Player 1
+
+![image](https://github.com/user-attachments/assets/5b03576b-ffdc-4f51-9a3d-f10bdd7feba9)
+
+Player 2 
+
+![image](https://github.com/user-attachments/assets/86b3e05a-ac83-4836-995f-880d5f85801d)
+
+Winner
+
+![image](https://github.com/user-attachments/assets/1266c92f-3c7f-43b2-bd33-f204cb900634)
+
+### 📝 Author
+• Name - Zaur Kharati
+
+• Github - https://github.com/ZukaKharati/Project-3-Pick-Game
+
+• LinkedIn - https://www.linkedin.com/in/zaur-kharati-940287211/
+
+
+### 🎉 Thanks for viewing the project and good luck!
+
+
+
+
 
 
 
