@@ -95,7 +95,7 @@ Winner
 
 ![image](https://github.com/user-attachments/assets/1266c92f-3c7f-43b2-bd33-f204cb900634)
 
-### 📝 Author
+### 📝 Profile
 • Name - Zaur Kharati
 
 • Github - https://github.com/ZukaKharati/Project-3-Pick-Game
